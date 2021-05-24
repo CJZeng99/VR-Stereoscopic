@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e3314303dc00654d920d8b83c573109
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {instanceID: 0}
+  - monoSkybox: {fileID: 2100000, guid: 5a51e6648febd894c89fe8f716b23894, type: 2}
+  - stereoSkybox: {fileID: 2100000, guid: adfb7acbb1c83ff4b953f534b9ac8e8a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
